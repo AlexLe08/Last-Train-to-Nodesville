@@ -1,0 +1,22 @@
+{
+  "name": "last-train-to-nodesville",
+  "version": "1.0.0",
+  "description": "Hello this is alex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLe08/Last-Train-to-Nodesville.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexLe08/Last-Train-to-Nodesville/issues"
+  },
+  "homepage": "https://github.com/AlexLe08/Last-Train-to-Nodesville#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
